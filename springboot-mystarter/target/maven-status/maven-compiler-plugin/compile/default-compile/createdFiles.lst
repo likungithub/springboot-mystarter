@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\mystarter\ExampleServiceProperties.class
+com\example\demo\mystarter\ExampleAutoConfigure.class
+com\example\demo\mystarter\ExampleService.class
+META-INF\spring-configuration-metadata.json

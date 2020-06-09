@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "example.service",
+      "type": "com.example.demo.mystarter.ExampleServiceProperties",
+      "sourceType": "com.example.demo.mystarter.ExampleServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "example.service.age",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.mystarter.ExampleServiceProperties"
+    },
+    {
+      "name": "example.service.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.mystarter.ExampleServiceProperties"
+    }
+  ],
+  "hints": []
+}
